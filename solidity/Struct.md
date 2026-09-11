@@ -25,3 +25,8 @@ ____________
     DeviceSpec public device;
 
 ```
+
+- 3. access field pake "." Ex:
+```solidity
+device.deviceModel
+```
